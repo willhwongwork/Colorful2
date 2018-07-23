@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Pure Colors</string>
+    <string name="menu_favorites">favorites</string>
+    <string name="menu_colors">collections</string>
+    <string name="menu_picker">picker</string>
+    <string name="set_wallpaper">set wallpaper</string>
+    <string name="wallpaper_description">wallpaper</string>
+    <string name="pref_wallpaper_color">WallpaperColor</string>
+    <string name="action_rate">Rate app</string>
+</resources>
